@@ -1,0 +1,24 @@
+{
+  "name": "simple-barchart",
+  "version": "0.0.0",
+  "homepage": "https://github.com/andyperlitch/d3-bar-chart-example",
+  "authors": [
+    "Andy Perlitch <andyperlitch@gmail.com>"
+  ],
+  "description": "bostock simple bar chart",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.5"
+  }
+}

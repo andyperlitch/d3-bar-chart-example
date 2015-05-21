@@ -1,0 +1,19 @@
+{
+  "name": "simple-barchart",
+  "version": "1.0.0",
+  "description": "D3: Simple Bar Chart ====================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andyperlitch/d3-bar-chart-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyperlitch/d3-bar-chart-example/issues"
+  },
+  "homepage": "https://github.com/andyperlitch/d3-bar-chart-example"
+}
